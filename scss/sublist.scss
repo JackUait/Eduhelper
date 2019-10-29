@@ -1,0 +1,13 @@
+.sublist {
+    display: none;
+}
+
+.sublist__item {
+    list-style-type: circle;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.is-opened {
+    display: block;
+}

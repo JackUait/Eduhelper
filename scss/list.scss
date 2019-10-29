@@ -1,0 +1,16 @@
+.list {
+    display: none;
+}
+
+.list__item {
+    list-style-type: disc;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: all 0.2s;
+}
+
+.list__item:hover {
+    color: $desc-image-color;
+    transform: translateX(10px);
+}
+
