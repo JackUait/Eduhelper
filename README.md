@@ -1,1 +1,1 @@
-# eduhelper.github.io
+# Eduhelper
